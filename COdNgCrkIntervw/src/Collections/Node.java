@@ -7,6 +7,7 @@ public class Node {
 	this.Data=Data;
 		// TODO Auto-generated constructor stub
 	}
+	//append add the new element
 	void append(int d)
 	{
 		Node end=new Node(this,d);
